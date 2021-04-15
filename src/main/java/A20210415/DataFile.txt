@@ -1,0 +1,18 @@
+Jesús:Logroño:41
+Andres:Madrid:19
+Angel Mari:Valencia:
+Laura Saenz::23
+Laura Saenz::38
+::
+:Logroño:20
+Andres2:Madrid:19
+Angel Mari2:Valencia:
+Laura Saenz2::23
+::42
+Laura Saenz::38
+::
+:Logroño:11
+Andres2:Madrid:12
+Angel Mari2:Valencia:
+Laura Saenz2::13
+::15
